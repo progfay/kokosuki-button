@@ -1,7 +1,7 @@
 document.ontouchmove = e => { e.preventDefault() }
 
 const onclick = async (e) => {
-  document.alert('click')
+  alert('click')
 }
 
-document.getElementById('circle-button').addEventListener('click', onclick)
+document.getElementById('heart-button').addEventListener('click', onclick)

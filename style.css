@@ -17,14 +17,7 @@ body {
     align-items: center;
 }
 
-#circle-button {
+#heart-button {
     width: 75vmin;
     height: 75vmin;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black;
-    color: white;
-    border-radius: 50%;
-    font-size: 20vmin;
 }
