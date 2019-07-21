@@ -1,6 +1,4 @@
-# simple-button-template
-
-Web Application template that have single button
+# ここ好きボタン
 
 ## Generate sw.js
 

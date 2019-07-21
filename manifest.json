@@ -1,8 +1,8 @@
 {
-    "name": "Simple Button",
-    "short_name": "Simple Button",
-    "theme_color": "#000000",
-    "background_color": "#000000",
+    "name": "ここ好きボタン",
+    "short_name": "😍",
+    "theme_color": "#DD2E44",
+    "background_color": "#FFFFFF",
     "display": "standalone",
     "orientation": "portrait",
     "Scope": "/",
